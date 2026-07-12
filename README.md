@@ -8,27 +8,27 @@ A Java Tic Tac Toe game featuring both a console version and a Swing GUI with mu
 
 ### Home Screen
 
-<img src="screenshots/home-screen.png" width="700">
+<img src="Screenshots/home-screen.png" width="700">
 
 ### Difficulty Selection
 
-<img src="screenshots/difficulty-selection.png" width="700">
+<img src="Screenshots/difficulty-selection.png" width="700">
 
 ### Player Setup
 
-<img src="screenshots/player-setup.png" width="700">
+<img src="Screenshots/player-setup.png" width="700">
 
 ### Gameplay
 
-<img src="screenshots/gameplay.png" width="700">
+<img src="Screenshots/gameplay.png" width="700">
 
 ### Player vs Computer
 
-<img src="screenshots/computer-mode.png" width="700">
+<img src="Screenshots/computer-mode.png" width="700">
 
 ### Game Over
 
-<img src="screenshots/game-over.png" width="700">
+<img src="Screenshots/gameover.png" width="700">
 
 ---
 ## Development Journey
